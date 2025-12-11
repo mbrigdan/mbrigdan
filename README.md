@@ -1,4 +1,6 @@
-## Hi there 👋
+Collection of various personal projects
+
+Resume: https://mbrigdan.github.io/mbrigdan/resume.pdf
 
 <!--
 **mbrigdan/mbrigdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
